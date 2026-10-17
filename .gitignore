@@ -1,0 +1,12 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+*.py.bak
+.env
+browser_profile_forum_word_V3/
+browser_profile_forum_word_V4/
+browser_profile_forum_word_V5/
+dynamics_forum_page_word_files_V2/
+dynamics_forum_page_word_files_V3/
+dynamics_forum_page_word_files_V4/
+dynamics_forum_page_word_files_V5/
